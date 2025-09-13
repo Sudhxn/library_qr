@@ -1,3 +1,2 @@
-# Library System Dark (Revamped)
-
-Local storage for users and books (PDF).
+All the HTML FILES Goes Into - templates
+Style Sheet Goes into - Static
